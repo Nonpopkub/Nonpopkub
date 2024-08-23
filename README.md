@@ -1,5 +1,9 @@
-## Hi there 👋
-Huh
+## WHO AM I HUH ?
+l'm Watchirawit Srisoonthornkasem (Pluem)🐉⛹🏿<BR>
+PCSHSST 24,27<BR>
+CU INTANIA 108<BR>
+EIEI
+![image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2FLebron-meme-face-by-BleuBubbles%2F138614102.LVTDI&psig=AOvVaw1AZVDZ-x-_8i1fOSS_3FBX&ust=1724481738830000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCz1Z_BiogDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2FLebron-meme-face-by-BleuBubbles%2F138614102.LVTDI&psig=AOvVaw1AZVDZ-x-_8i1fOSS_3FBX&ust=1724481738830000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCz1Z_BiogDFQAAAAAdAAAAABAE))
 <!--
 **Nonpopkub/Nonpopkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
