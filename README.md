@@ -8,7 +8,8 @@ PCSHSST 24,27
 CU INTANIA 108
 contact : ig = _wachizx.p | tel = 0809532274
 ```
-
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=instagram,cpp,python,html,css)](https://skillicons.dev)<br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200"><br>
