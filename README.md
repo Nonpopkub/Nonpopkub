@@ -11,8 +11,8 @@ contact : ig = _wachizx.p | tel = 0809532274
 ```
 My Skills
 ```
-[![My Skills](https://skillicons.dev/icons?i=instagram,cpp,python,html,css)](https://skillicons.dev)
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200">
+[![My Skills](https://skillicons.dev/icons?i=instagram,cpp,python,html,css)](https://skillicons.dev)<br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200"><br>
 EIEI
 
 
@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-、、、
-dasd
-、、、
