@@ -1,5 +1,5 @@
-## Welcome to my profile
-<img src="https://i.imgflip.com/1p8lss.jpg?a478800" width="100" height= "100"><img src="https://www.the-sun.com/wp-content/uploads/sites/6/2023/10/AS_LEBRON-MEMES_OP.jpg?strip=all&quality=100&w=1080&h=1080&crop=1" width = "100" height= "100"><img src="https://cdn.theathletic.com/app/uploads/2023/07/20155309/GettyImages-83858977_GaryDineen-scaled-e1689884637250-1024x683.jpg" width="100" height="100">
+<center>## Welcome to my profile
+<img src="https://i.imgflip.com/1p8lss.jpg?a478800" width="100" height= "100"><img src="https://www.the-sun.com/wp-content/uploads/sites/6/2023/10/AS_LEBRON-MEMES_OP.jpg?strip=all&quality=100&w=1080&h=1080&crop=1" width = "100" height= "100"><img src="https://cdn.theathletic.com/app/uploads/2023/07/20155309/GettyImages-83858977_GaryDineen-scaled-e1689884637250-1024x683.jpg" width="100" height="100"></center>
 
 ## WHO AM I HUH ?
 l'm Watchirawit Srisoonthornkasem (Pluem)🐉⛹🏿<BR>
